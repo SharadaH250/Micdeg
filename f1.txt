@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 gangavathi
+=======
+Hey how r u
+Hello gvt
+
+>>>>>>> Stashed changes
