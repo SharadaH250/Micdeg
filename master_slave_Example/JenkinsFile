@@ -1,5 +1,7 @@
 pipeline{
-    agent any
+    agent {
+        label 'qa'
+    }
     stages{
         stage('Build - system details'){
             steps{
